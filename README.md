@@ -1,16 +1,13 @@
-## Hi there 👋
+# SwissDecentralGPT
+Dezentrale AI-Plattform auf Solana mit Web3-Integration.
 
-<!--
-**SwissDecentralGPT/SwissDecentralGPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Funktionen:
+✅ AI-gestützte Interaktionen mit NFT- & Token-Zugriff  
+✅ Smart Contracts für dezentrale Verwaltung  
+✅ Integration von SwissLaunchpad, SwissNFT & SwissDeFi  
+✅ Verwaltung über SwissDecentralGPT  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Installation:
+1. Klone dieses Repository:  
+   ```sh
+   git clone https://github.com/dein-user/SwissDecentralGPT.git
