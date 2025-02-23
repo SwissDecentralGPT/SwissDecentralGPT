@@ -1,0 +1,76 @@
+{
+  "name": "swissdecentralgpt",
+  "version": "1.0.0",
+  "description": "SwissDecentralGPT - AI on Web3",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "metadata": {
+    "daily_routines": {
+      "avoid": [
+        "no TV",
+        "no gaming",
+        "no timewasting",
+        "no SM scrolling"
+      ],
+      "do": [
+        "6h+ of sleep",
+        "intermittent fasting",
+        "healthy food",
+        "stay hydrated",
+        "healing session",
+        "GM",
+        "learn in TRW",
+        "learn to trade",
+        "listen to lessons",
+        "reflection",
+        "daily check-in",
+        "heal myself into a better mind-state"
+      ]
+    },
+    "project_whitepaper": {
+      "title": "SwissDecentralGPT & SwissNFT-AI – Official Whitepaper",
+      "summary": "A fully autonomous AI & Web3 ecosystem combining AI, language research, DeFi, and NFTs for scalable passive income.",
+      "goals": [
+        "Automated revenue streams (AI coaching, NFT sales, staking, DeFi, launchpad)",
+        "Highest anonymity through offshore structures, DAOs, and crypto protection",
+        "Legal immunity through strategic company formations and asset protection",
+        "Exponential growth via full reinvestment and global expansion",
+        "Rising AI quality with increasing budget and machine learning improvements",
+        "Performance-based profit sharing for top employees",
+        "Flexible language learning subscriptions with personalized strategies",
+        "Support for various dialects & accents (Swiss German, global variations)",
+        "Fast, cost-effective, and scalable blockchain integration with Solana",
+        "Passive income through DeFi & staking – long-term benefits for users & investors"
+      ],
+      "core_projects": {
+        "1": "SwissDecentralGPT - AI-driven language learning",
+        "2": "SwissNFT-AI - AI-generated NFT marketplace",
+        "3": "SwissDeFi - Liquidity staking & passive earnings",
+        "4": "SwissLaunchpad - Crypto startup platform",
+        "5": "SwissDude.ai Token - Deflationary Web3 asset",
+        "6": "AI Coaching & Machine Learning optimization"
+      },
+      "roadmap": {
+        "CEX & DEX Listings": {
+          "Binance": "Q2 2025",
+          "Kraken": "Q3 2025",
+          "Bitget": "Q2 2025",
+          "PancakeSwap": "Immediately after token launch",
+          "Uniswap": "Immediately after token launch",
+          "SushiSwap": "Q2 2025"
+        },
+        "Milestones": {
+          "Q1 2025": "Marketing expansion & influencer partnerships",
+          "Q2 2025": "First strategic partnerships with language institutes",
+          "Q3 2025": "Advanced AI training with ML improvements",
+          "Q4 2025": "Full decentralization & DAO governance"
+        }
+      }
+    }
+  }
+}
